@@ -1,1 +1,1 @@
-基于yolov5的华为mindspore实现方案
+#基于yolov5的华为mindspore实现方案
